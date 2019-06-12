@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AutofacHelloWord
+﻿namespace AutofacHelloWord
 {
     public class SalesChannelEast : SalesChannel
     {
